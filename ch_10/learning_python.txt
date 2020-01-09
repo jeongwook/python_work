@@ -1,0 +1,3 @@
+In Python you can read files.
+In Python you can use inheritance.
+In Python you can read user input.
